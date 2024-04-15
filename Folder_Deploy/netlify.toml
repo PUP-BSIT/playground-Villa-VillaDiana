@@ -1,5 +1,0 @@
-[[redirects]]
-from = "Folder_Deploy/"
-to = "Folder_Deploy/diana.html"
-status = 200
-force = true
